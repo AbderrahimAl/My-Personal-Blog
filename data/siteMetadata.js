@@ -1,14 +1,14 @@
 const siteMetadata = {
   title: 'Blog | Abderrahim Alakouche',
   author: 'Abderrahim Alakouche',
-  headerTitle: 'Mere Musings',
+  headerTitle: '',
   description: 'My personal blog where I share my musings',
   snippets: 'Reuseable code snippets collected by Parth',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://alakouche.me',
   siteRepo: 'https://github.com/AbderrahimAl/My_Personal_Blog',
-  siteLogo: '/static/images/logo.png',
+  siteLogo: '/static/images/.png',
   image: '/static/images/avatar.JPG',
   socialBanner: '',
   email: 'abderrahimalakouche@gmail.com',

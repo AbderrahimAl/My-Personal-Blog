@@ -3,9 +3,9 @@
   "version": "1.5.6",
   "private": true,
   "author": {
-    "name": "Parth Desai",
-    "email": "desaiparth2000@gmail.com",
-    "url": "https://musing.vercel.app/"
+    "name": "Abderrahim Alakouche",
+    "email": "abderrahimalakouche@gmail.com",
+    "url": "https://alakouche.me"
   },
   "scripts": {
     "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
@@ -19,7 +19,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pycoder2000/blog.git"
+    "url": "git+https://github.com/AbderrahimAl/My-Personal-Blog"
   },
   "dependencies": {
     "@fontsource/inter": "4.5.2",
