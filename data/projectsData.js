@@ -11,6 +11,17 @@ const projectsData = [
     tech4: 'Transformers',
   },
   {
+    title: 'Sentiment Analysis with BERT',
+    description: `An API for Sentiment Analysis using BERT 🎈`,
+    imgSrc: '',
+    href: '',
+    github: 'https://github.com/AbderrahimAl/Sentiment_Analysis_App',
+    tech1: 'Pytorch',
+    tech2: 'Transformers',
+    tech3: 'FastAPI',
+    tech4: 'Docker'
+  },
+  {
     title: 'Show Us the Data',
     description: `Using natural language processing (NLP) to automate the discovery of how scientific data are referenced in publications.`,
     imgSrc: '',
