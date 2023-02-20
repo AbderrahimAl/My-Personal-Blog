@@ -84,7 +84,7 @@ export default function Home({ posts }) {
               <div className="my-2 grid items-start gap-8">
                 <div className="group relative">
                   <div className="animate-tilt absolute -inset-0.5 rounded-lg bg-gradient-to-r  from-pink-600 to-purple-100 opacity-30 blur transition duration-1000 group-hover:opacity-100 group-hover:duration-200"></div>
-                  <Link href="https://drive.google.com/file/d/1SnMcEiwKM9NrpD4jMBtOH1F7BYdKopc5/view">
+                  <Link href="https://drive.google.com/file/d/1iZb40ihJ0TyjvF_30yrbAIor6wP4KKbi/view?usp=share_link">
                     <span className="relative flex items-center divide-x divide-gray-600 rounded-lg bg-white px-7 py-4 leading-none dark:bg-black">
                       <span className="flex items-center space-x-5">
                         <span className="pr-6 text-gray-900 dark:text-gray-100">
